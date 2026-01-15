@@ -27,17 +27,33 @@ manutenibilidade.
 
 Ao longo da minha trajetória, participei da construção, evolução e manutenção de sistemas
 voltados à automação de processos, organização de dados e simplificação de operações
-complexas.
+complexas, lidando com desafios reais de negócio e operação.
 
 ---
 
-## Projetos e soluções desenvolvidas
+## Soluções, produtos e sistemas desenvolvidos
 
-- Sistemas internos para controle, validação e processamento de informações
-- Aplicações web voltadas à automação de fluxos operacionais
-- Integração entre sistemas, bancos de dados e serviços
-- Estruturação de backends e APIs para aplicações escaláveis
-- Apoio técnico e arquitetural em ambientes de produção
+Ao longo da minha atuação profissional, estive envolvido na concepção e desenvolvimento
+de diferentes tipos de soluções digitais, aplicando princípios de arquitetura, segurança
+e escalabilidade.
+
+Entre as soluções desenvolvidas, destacam-se:
+
+- **Produtos e plataformas digitais**, envolvendo regras de negócio, validações,
+  controle de usuários, fluxos de dados e persistência de informações, com foco em
+  confiabilidade e integridade dos sistemas (ex.: projetos como o OkValida).
+
+- **Sistemas sob medida**, incluindo soluções de gestão e controle, como sistemas de
+  biblioteca, com modelagem de dados, controle de usuários, histórico de operações e
+  foco no uso real em ambientes institucionais.
+
+- **Aplicações web e landing pages**, integrando desenvolvimento técnico e visão de
+  negócio, desde a estrutura backend até a entrega final orientada à experiência do
+  usuário e objetivos de conversão.
+
+- **Projetos próprios e em desenvolvimento**, utilizados como base para aplicar e
+  validar conceitos de arquitetura de software, organização de código, segurança e
+  crescimento sustentável das aplicações.
 
 ---
 
@@ -47,8 +63,9 @@ Acredito que bons sistemas devem ser simples na superfície e sólidos na arquit
 Priorizo soluções bem estruturadas, com código legível, baixo acoplamento e foco em
 manutenibilidade, evitando atalhos que geram dívida técnica ao longo do tempo.
 
-Tecnologia, para mim, não é sobre modismos, mas sobre resolver problemas reais de forma
-confiável, sustentável e alinhada às necessidades do negócio.
+Tecnologia, para mim, não é sobre modismos ou ferramentas da vez, mas sobre resolver
+problemas reais de forma confiável, sustentável e alinhada às necessidades do negócio
+e das pessoas que utilizam os sistemas.
 
 ---
 
